@@ -1,7 +1,7 @@
 # Pizza Restaurant
-Fikri Taufiqurrahman
-1207050039
-Teknik Informatika B
+* Fikri Taufiqurrahman
+* 1207050039
+* Teknik Informatika B
 
 # Screenshoots
 |Screenshoots|
